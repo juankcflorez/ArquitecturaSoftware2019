@@ -7,7 +7,7 @@ package co.edu.uniminuto.pa.DTOs;
 
 /**
  *
- * @author nixoduaa
+ * @author Camilo1023
  */
 public class Persona {
 
