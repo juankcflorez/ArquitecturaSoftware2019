@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author nixoduaa
+ * @author juankcflorez
  */
 public class PersonaDAO {
     
